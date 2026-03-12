@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and this repository."
+title: "Operational Acoustic Affective Space (OAAS) — Applied Acoustics Research Companion Repository"
+type: software
+authors:
+  - family-names: Rodríguez
+    given-names: Berardo de Jesús
+    email: berardo.rodriguez@udea.edu.co
+    affiliation: "Grupo de Investigación Patobiología QUIRON, Universidad de Antioquia, Medellín, Colombia"
+  - family-names: Zapata-Cardona
+    given-names: Juliana
+    email: juliana.zapata9@udea.edu.co
+    affiliation: "Grupo de Investigación Patobiología QUIRON, Universidad de Antioquia, Medellín, Colombia"
+year: 2026
+keywords:
+  - OAAS
+  - acoustic-affective space
+  - bioacoustics
+  - animal welfare
+  - functional music
+  - affective sound environments
+license: MIT
